@@ -31,3 +31,4 @@
 /Users/macbookair/dev/net/MyBGListPractice/MyBGListPractice/obj/Debug/net6.0/MyBGListPractice.genruntimeconfig.cache
 /Users/macbookair/dev/net/MyBGListPractice/MyBGListPractice/obj/Debug/net6.0/ref/MyBGListPractice.dll
 /Users/macbookair/dev/net/MyBGListPractice/MyBGListPractice/bin/Debug/net6.0/appsettings.Staging.json
+/Users/macbookair/dev/net/MyBGListPractice/MyBGListPractice/obj/Debug/net6.0/MyBGListPractice.sourcelink.json

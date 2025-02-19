@@ -23,7 +23,6 @@ namespace MyBGListPractice.Controllers
                     MinPlayers = 2,
                     Name = "Catan",
                     Year = 1999
-
                 },
                 new BoardGame() {
                     Id = 1,
@@ -31,7 +30,6 @@ namespace MyBGListPractice.Controllers
                     MinPlayers = 2,
                     Name = "Monopoly",
                     Year = 1980
-
                 },
                 new BoardGame() {
                     Id = 1,
@@ -39,7 +37,6 @@ namespace MyBGListPractice.Controllers
                     MinPlayers = 2,
                     Name = "Exploding Kittens",
                     Year = 2012
-
                 }
             };
         }
