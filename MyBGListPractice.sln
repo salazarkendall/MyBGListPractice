@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBGListPractice", "MyBGListPractice\MyBGListPractice.csproj", "{5D771CA7-4F6D-42F1-B6C9-235AFCAD96E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBGListPracticeDelete", "MyBGListPracticeDelete\MyBGListPracticeDelete.csproj", "{7F9E0A93-65AE-4E74-938B-ACD00C6EDEF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBGListPracticeRemove", "MyBGListPracticeRemove\MyBGListPracticeRemove.csproj", "{998DDA74-E17A-49A9-9038-35DEA768BCB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{5D771CA7-4F6D-42F1-B6C9-235AFCAD96E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D771CA7-4F6D-42F1-B6C9-235AFCAD96E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D771CA7-4F6D-42F1-B6C9-235AFCAD96E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F9E0A93-65AE-4E74-938B-ACD00C6EDEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F9E0A93-65AE-4E74-938B-ACD00C6EDEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F9E0A93-65AE-4E74-938B-ACD00C6EDEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F9E0A93-65AE-4E74-938B-ACD00C6EDEF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{998DDA74-E17A-49A9-9038-35DEA768BCB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998DDA74-E17A-49A9-9038-35DEA768BCB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998DDA74-E17A-49A9-9038-35DEA768BCB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998DDA74-E17A-49A9-9038-35DEA768BCB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
